@@ -1,0 +1,60 @@
+* {
+  font-family: 'Slabo 27px', serif;
+  font-family: 'Oxygen', sans-serif;  
+  font-family: 'Quicksand', sans-serif;
+}
+h1 {
+  color: #99ddff;
+  font-size: 40px;
+}
+
+h2 {
+  color: #39e600;
+}
+
+body {
+    background-image: url('bg.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
+
+}
+  video { 
+    position: fixed;
+    margin-top: 150px;
+    opacity: 0.2;
+    top: 20%;
+    left: 85%;
+    width: 600px;
+    height: 1900px;
+    z-index: -30;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+.about {
+  width: 400px;
+  margin-top: -30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-shadow: 1px 2px black;
+  padding: 60px;
+  color: #fff;
+}
+
+p {
+  padding: 11px;
+  font-size: 15px;
+}
+
+.bio {
+  
+}
+
+.me {
+  height: 200px;
+  border-radius: 100%;
+  border: 10px double #99ddff;
+}
