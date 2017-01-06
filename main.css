@@ -22,10 +22,10 @@ body {
 }
   video { 
     position: fixed;
-    margin-top: 150px;
+    margin-top: 130px;
     opacity: 0.2;
     top: 20%;
-    left: 85%;
+    left: 95%;
     width: 600px;
     height: 1900px;
     z-index: -30;
